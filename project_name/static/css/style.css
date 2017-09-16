@@ -1,0 +1,18 @@
+@import url("/static/css/navbar.css");
+
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #f8f8f8;
+}
+
+#wrapper {
+  margin: auto;
+  width: 900px;
+  background-color: white;
+}
+
+#page-wrapper {
+  padding: 0 15px;
+  min-height: 568px;
+}
