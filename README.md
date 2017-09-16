@@ -11,7 +11,7 @@ Site skeleton with following
 * Templates
 * Static files collection to static root
 
-## Roadmap
+## Todo
 * User Registration/Sign up
 * Change language
 
@@ -24,3 +24,5 @@ Site skeleton with following
 2. `$ cd my_project`
 3. `$ pip install -r requirements.txt `
 4. `$ python manage.py migrate`
+5. `$ python manage.py collectstatic`
+6. See if it's runing `$ python manage.py runserver`
