@@ -1,0 +1,47 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-10-12 07:09+0000\n"
+"PO-Revision-Date: 2017-10-12 09:19+0200\n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.8.11\n"
+
+#: my_project/settings.py:121 templates/default.html:35
+msgid "English"
+msgstr "Engelsk"
+
+#: my_project/settings.py:122 templates/default.html:34
+msgid "Danish"
+msgstr "Dansk"
+
+#: templates/navbar.html:39
+msgid "profile"
+msgstr "profil"
+
+#: templates/navbar.html:40
+msgid "settings"
+msgstr "indstillinger"
+
+#: templates/navbar.html:41
+msgid "logout"
+msgstr "log af"
+
+#: templates/navbar.html:45
+msgid "administration"
+msgstr "administration"
+
+#: templates/navbar.html:48
+msgid "login"
+msgstr "log på"
